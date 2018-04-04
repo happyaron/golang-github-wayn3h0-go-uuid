@@ -1,0 +1,12 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: go-uuid
+Source: https://github.com/wayn3h0/go-uuid
+
+Files: *
+Copyright: 2017 wayn3h0
+License: Apache-2.0
+
+Files: debian/*
+Copyright: 2018 Aron Xu <happyaron.xu@gmail.com>
+License: Apache-2.0
+Comment: Debian packaging is licensed under the same terms as upstream
